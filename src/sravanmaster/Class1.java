@@ -10,6 +10,10 @@ public class Class1 {
 		System.out.println("Legend blockbuster");
         System.out.println("Master super hit");
 
+        
+        System.out.println("Jai Balaiah");
+        System.out.println("Jai jai balaiah");
+
 	}
 
 }
